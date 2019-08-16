@@ -1,4 +1,4 @@
-﻿namespace OLiOYouxi.OSystem.OLiOUEvents.UEventsBase
+﻿namespace OLiOYouxiCore.OSystem.OLiOUEvents.UEventsBase
 {
     using System;
     using UnityEngine;

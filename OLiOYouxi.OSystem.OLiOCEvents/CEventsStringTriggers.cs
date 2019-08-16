@@ -1,4 +1,4 @@
-﻿namespace OLiOYouxi.OSystem.OLiOCEvents
+﻿namespace OLiOYouxiCore.OSystem.OLiOCEvents
 {
     /// <summary>
     /// CustomEvents触发器。

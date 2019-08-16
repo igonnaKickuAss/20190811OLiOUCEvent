@@ -1,4 +1,4 @@
-﻿namespace OLiOYouxi.OSystem.OLiOCEvents
+﻿namespace OLiOYouxiCore.OSystem.OLiOCEvents
 {
     using System.Collections.Generic;
 

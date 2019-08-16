@@ -1,7 +1,7 @@
-﻿namespace OLiOYouxi.OSystem.OLiOUEvents
+﻿namespace OLiOYouxiCore.OSystem.OLiOUEvents
 {
     using UnityEngine;
-    using OLiOYouxi.OSystem.OLiOUEvents.UEventsBase;
+    using OLiOYouxiCore.OSystem.OLiOUEvents.UEventsBase;
 
     static internal class UEventsExtensions
     {

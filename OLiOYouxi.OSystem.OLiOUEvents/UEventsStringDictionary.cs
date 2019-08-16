@@ -1,6 +1,6 @@
-﻿namespace OLiOYouxi.OSystem.OLiOUEvents
+﻿namespace OLiOYouxiCore.OSystem.OLiOUEvents
 {
-    using OLiOYouxi.OSystem.OLiOUEvents.UEventsBase;
+    using OLiOYouxiCore.OSystem.OLiOUEvents.UEventsBase;
     using System.Collections.Generic;
     
     /// <summary>

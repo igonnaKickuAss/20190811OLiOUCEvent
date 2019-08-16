@@ -1,4 +1,4 @@
-﻿namespace OLiOYouxi.OSystem.OLiOCEvents
+﻿namespace OLiOYouxiCore.OSystem.OLiOCEvents
 {
     /// <summary>
     /// 给定委托事件
