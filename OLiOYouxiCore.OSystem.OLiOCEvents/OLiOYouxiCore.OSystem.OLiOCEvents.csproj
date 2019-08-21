@@ -7,8 +7,8 @@
     <ProjectGuid>{3DCEA1F8-4D41-48BF-86BD-E9E48A23ABC9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>OLiOYouxi.OSystem.OLiOCEvents</RootNamespace>
-    <AssemblyName>OLiOYouxi.OSystem.OLiOCEvents</AssemblyName>
+    <RootNamespace>OLiOYouxiCore.OSystem.OLiOCEvents</RootNamespace>
+    <AssemblyName>OLiOYouxiCore.OSystem.OLiOCEvents</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -21,7 +21,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DocumentationFile>bin\Debug\OLiOYouxi.OSystem.OLiOCEvents.xml</DocumentationFile>
+    <DocumentationFile>bin\Debug\OLiOYouxiCore.OSystem.OLiOCEvents.xml</DocumentationFile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
