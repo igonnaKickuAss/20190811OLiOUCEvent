@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLiOYouxi.OSystem.OLiOCEvents", "OLiOYouxi.OSystem.OLiOCEvents\OLiOYouxi.OSystem.OLiOCEvents.csproj", "{3DCEA1F8-4D41-48BF-86BD-E9E48A23ABC9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLiOYouxiCore.OSystem.OLiOCEvents", "OLiOYouxi.OSystem.OLiOCEvents\OLiOYouxiCore.OSystem.OLiOCEvents.csproj", "{3DCEA1F8-4D41-48BF-86BD-E9E48A23ABC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLiOYouxi.OSystem.OLiOUEvents", "OLiOYouxi.OSystem.OLiOUEvents\OLiOYouxi.OSystem.OLiOUEvents.csproj", "{776E335C-6184-443E-8519-FBC19047752C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLiOYouxiCore.OSystem.OLiOUEvents", "OLiOYouxi.OSystem.OLiOUEvents\OLiOYouxiCore.OSystem.OLiOUEvents.csproj", "{776E335C-6184-443E-8519-FBC19047752C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
